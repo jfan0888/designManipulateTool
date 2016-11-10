@@ -2,7 +2,6 @@
   "name": "Online-Design-Tool",
   "description": "This tool is used to create customized designs for multiple items.",
   "version": "1.0.0",
-  "author": "Dennis V. <dennisvan902@yahoo.com>",
   "license": "",
   "keywords": [
     "react",
